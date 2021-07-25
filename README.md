@@ -2,11 +2,11 @@
 
 Proposta do Desafio: Criação de um sistema e-commerce para inventário de produtos e dados de clientes
 
-Para testar o projeto acesse : https://desafio2hc.netlify.app/
+Para testar o projeto acesse : https://desafio2-hc.netlify.app/
 
 ### Implementação
 
-Utilizei ReactJS, Bootstrap(reactstrap), React Router Dom para mudar de rotas e React Toastify para mensagens de sucesso.
+Utilizei ReactJS, Bootstrap(reactstrap), React Router Dom para mudar de rotas, React Toastify para mensagens de sucesso, e CSS responsivo com @media e display flex.
 
 ### Funcionalidades
 
